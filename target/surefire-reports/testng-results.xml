@@ -26,25 +26,25 @@
       <![CDATA[text Result :49]]>
     </line>
     <line>
-      <![CDATA[Test case passed]]>
+      <![CDATA[Test case passed is Shown]]>
     </line>
     <line>
       <![CDATA[closing Browser]]>
     </line>
   </reporter-output>
-  <suite started-at="2024-01-19T22:52:43 IST" name="Suite" finished-at="2024-01-19T22:53:16 IST" duration-ms="33606">
+  <suite started-at="2024-01-20T16:14:22 IST" name="Suite" finished-at="2024-01-20T16:14:54 IST" duration-ms="32221">
     <groups>
     </groups>
-    <test started-at="2024-01-19T22:52:43 IST" name="Test" finished-at="2024-01-19T22:53:16 IST" duration-ms="33606">
+    <test started-at="2024-01-20T16:14:22 IST" name="Test" finished-at="2024-01-20T16:14:54 IST" duration-ms="32221">
       <class name="TestNgTestClassPackage.Validate_testcases_CoverFox">
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:TestNgTestClassPackage.Validate_testcases_CoverFox@4fb0f2b9]" started-at="2024-01-19T22:52:43 IST" name="launchBrowser" finished-at="2024-01-19T22:52:56 IST" duration-ms="13702" status="PASS">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:TestNgTestClassPackage.Validate_testcases_CoverFox@4fb0f2b9]" started-at="2024-01-20T16:14:22 IST" name="launchBrowser" finished-at="2024-01-20T16:14:32 IST" duration-ms="10182" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Launching Browser]]>
             </line>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method is-config="true" signature="callingMethodsOfClass()[pri:0, instance:TestNgTestClassPackage.Validate_testcases_CoverFox@4fb0f2b9]" started-at="2024-01-19T22:52:56 IST" name="callingMethodsOfClass" finished-at="2024-01-19T22:53:02 IST" duration-ms="5243" status="PASS">
+        <test-method is-config="true" signature="callingMethodsOfClass()[pri:0, instance:TestNgTestClassPackage.Validate_testcases_CoverFox@4fb0f2b9]" started-at="2024-01-20T16:14:32 IST" name="callingMethodsOfClass" finished-at="2024-01-20T16:14:39 IST" duration-ms="7339" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[On home Page]]>
@@ -57,7 +57,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- callingMethodsOfClass -->
-        <test-method signature="validateResultNumber()[pri:0, instance:TestNgTestClassPackage.Validate_testcases_CoverFox@4fb0f2b9]" started-at="2024-01-19T22:53:02 IST" name="validateResultNumber" finished-at="2024-01-19T22:53:15 IST" duration-ms="13383" status="PASS">
+        <test-method signature="validateResultNumber()[pri:0, instance:TestNgTestClassPackage.Validate_testcases_CoverFox@4fb0f2b9]" started-at="2024-01-20T16:14:39 IST" name="validateResultNumber" finished-at="2024-01-20T16:14:53 IST" duration-ms="13335" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Text On Result Page]]>
@@ -72,11 +72,11 @@
               <![CDATA[text Result :49]]>
             </line>
             <line>
-              <![CDATA[Test case passed]]>
+              <![CDATA[Test case passed is Shown]]>
             </line>
           </reporter-output>
         </test-method> <!-- validateResultNumber -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNgTestClassPackage.Validate_testcases_CoverFox@4fb0f2b9]" started-at="2024-01-19T22:53:15 IST" name="closeBrowser" finished-at="2024-01-19T22:53:16 IST" duration-ms="1231" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:TestNgTestClassPackage.Validate_testcases_CoverFox@4fb0f2b9]" started-at="2024-01-20T16:14:53 IST" name="closeBrowser" finished-at="2024-01-20T16:14:54 IST" duration-ms="1304" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[closing Browser]]>
